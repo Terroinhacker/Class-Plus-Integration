@@ -12,4 +12,5 @@ export const CLASSPLUS_URLS = {
     "advance java (jfs online)": { folderId: 49685173, courseId: 775723 },
     "DSA in Java": { folderId: 49636139, courseId: 818548 },
     "sharma computer academy's personal meeting room": { folderId: 49270496, courseId: 814611 },
+    "Project SQL (Today)": { folderId: 50079013, courseId: 805891 },
 };
