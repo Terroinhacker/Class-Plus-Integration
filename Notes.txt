@@ -1,0 +1,12 @@
+1. What should my API return
+Idea: 200 ok -> message = "Not Found" -> baat khatam
+200 ok -> message = Something ? -> {batchName, url, date}
+
+400 ok -> messsage = error.message -> {batchName, url, date}
+
+500 ok -> skip
+
+
+=============================
+2. Everything calculate in render
+- batchName, url, date

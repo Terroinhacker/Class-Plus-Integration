@@ -1,0 +1,21 @@
+{
+  "name": "classplusintegration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "md5": "^2.3.0",
+    "mkdirp": "^3.0.1"
+  }
+}

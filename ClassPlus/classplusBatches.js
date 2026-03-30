@@ -1,0 +1,15 @@
+export const CLASSPLUS_URLS = {
+    "java full stack with springboot": { folderId: 45873074, courseId: 775723 },
+    "generative ai": { folderId: 45446445, courseId: 772963 },
+    "css (atlas)": { folderId: 48519073, courseId: 777062 },
+    "genwizard 2.0": { folderId: 48187987, courseId: 803031 },
+    "typescript + react js (9th march)": { folderId: 47610411, courseId: 796695 },
+    "sql (jfs online)": { folderId: 48485070, courseId: 775723 },
+    "springboot project (25-feb)": { folderId: 48398073, courseId: 805891 },
+    "front-end by paramjeet sir": { folderId: 47375905, courseId: 775723 },
+    "atlas 1.0": { folderId: 49395314, courseId: 777062 },
+    "spring module 1": { folderId: 49529815, courseId: 775723 },
+    "advance java (jfs online)": { folderId: 49685173, courseId: 775723 },
+    "DSA in Java": { folderId: 49636139, courseId: 818548 },
+    "sharma computer academy's personal meeting room": { folderId: 49270496, courseId: 814611 },
+};
